@@ -1,0 +1,1 @@
+AccessControlEntry.ConditionToIdentities(identityProvider as function, condition as function) as list
